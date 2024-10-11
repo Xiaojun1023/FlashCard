@@ -1,3 +1,4 @@
+
 # Flashcard App
 
 A simple Android Flashcard app designed to help users study and retain information on various topics. The app allows users to view, add, edit, and flip flashcards, while tracking the number of times a flashcard has been flipped. It also provides options for customizing the app's appearance with different background colors.
@@ -28,18 +29,15 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/your-username/FlashcardApp.git
 
 2. **Open the Project in Android Studio**:
-   ```bash
    Launch Android Studio.
    Go to File > Open and navigate to the cloned repository folder.
    Select the project to open it.
 
-4. **Build the Project**:
-   ```bash
+3. **Build the Project**:
    Wait for Android Studio to synchronize and build the project.
    Resolve any dependencies if prompted.
 
-6. **Run the App**:
-   ```bash
+4. **Run the App**:
    Click the Run button (green arrow) in Android Studio.
    Choose your connected Android device or emulator.
    The app should now install and launch on your device.
@@ -49,34 +47,28 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Main Features
 
 1. **Viewing Flashcards**：
-   ```bash
    On the main screen, you'll see a list of flashcards.
    Tap on any flashcard to open it and view the question and answer.
 
-3. **Adding Flashcards**：
-   ```bash
+2. **Adding Flashcards**：
    Click the Add button on the main screen.
    Enter your custom question and answer.
    Click Add to save the new flashcard.
 
-5. **Editing Flashcards**：
-   ```bash
+3. **Editing Flashcards**：
    For flashcards numbered 6 to 15, tap on the flashcard.
    Choose Edit from the options dialog.
    Modify the question and/or answer.
    Save your changes.
 
-7. **Flipping Flashcards**：
-   ```bash
+4. **Flipping Flashcards**：
    In the flashcard detail view, tap the Flip button to switch between the question and answer.
    Each flip increments the flip counter displayed on the screen.
 
-9. **Resetting the Flip Counter**：
-    ```bash
+5. **Resetting the Flip Counter**：
    In the flashcard detail view, click the Reset button to reset the flip count to zero.
 
-11. **Changing Background Color**：
-    ```bash
+6. **Changing Background Color**：
    On the main screen, tap the Change Color button.
    Select a background color from the list of options.
    The background color will change accordingly and is saved for future sessions.
@@ -89,32 +81,25 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Contributing
 
 1. **Fork the Repositor**：
-   ```bash
    Click the Fork button at the top right corner of the repository page.
 
-3. **Clone Your Forked Repository**：
-   ```bash
+2. **Clone Your Forked Repository**：
    git clone https://github.com/Xiaojun1023/FlashcardApp.git
 
-5. **Create a New Branch**：
-   ```bash
+3. **Create a New Branch**：
    git checkout -b feature-name
 
-7. **Make Your Changes**：
-   ```bash
+4. **Make Your Changes**：
    Implement your feature or fix bugs.
    Ensure your code follows the project's coding standards.
 
-9. **Commit Your Changes**：
-    ```bash
+5. **Commit Your Changes**：
    git commit -m "Description of your changes"
 
-11. **Push to the Branch**：
-    ```bash
+6. **Push to the Branch**：
    git push origin feature-name
 
-13. **Create a Pull Reques**：
-    ```bash
+7. **Create a Pull Reques**：
    Go to the original repository on GitHub.
    Click on Pull Requests and then New Pull Request.
    Compare your branch with the original and submit the pull request for review.
@@ -124,14 +109,3 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Android Developers Community: For the extensive documentation and tutorials.
 - Open-Source Libraries: For providing useful tools and resources.
 - Inspiration: Traditional flashcard apps and educational tools.
-
-
-
-
-
-
-
-
-
-
-
