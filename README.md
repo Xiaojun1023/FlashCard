@@ -34,10 +34,12 @@ Follow these instructions to get a copy of the project up and running on your lo
    Select the project to open it.
 
 4. **Build the Project**:
+   ```bash
    Wait for Android Studio to synchronize and build the project.
    Resolve any dependencies if prompted.
 
-5. **Run the App**:
+6. **Run the App**:
+   ```bash
    Click the Run button (green arrow) in Android Studio.
    Choose your connected Android device or emulator.
    The app should now install and launch on your device.
@@ -47,28 +49,34 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Main Features
 
 1. **Viewing Flashcards**：
+   ```bash
    On the main screen, you'll see a list of flashcards.
    Tap on any flashcard to open it and view the question and answer.
 
-2. **Adding Flashcards**：
+3. **Adding Flashcards**：
+   ```bash
    Click the Add button on the main screen.
    Enter your custom question and answer.
    Click Add to save the new flashcard.
 
-3. **Editing Flashcards**：
+5. **Editing Flashcards**：
+   ```bash
    For flashcards numbered 6 to 15, tap on the flashcard.
    Choose Edit from the options dialog.
    Modify the question and/or answer.
    Save your changes.
 
-4. **Flipping Flashcards**：
+7. **Flipping Flashcards**：
+   ```bash
    In the flashcard detail view, tap the Flip button to switch between the question and answer.
    Each flip increments the flip counter displayed on the screen.
 
-5. **Resetting the Flip Counter**：
+9. **Resetting the Flip Counter**：
+    ```bash
    In the flashcard detail view, click the Reset button to reset the flip count to zero.
 
-6. **Changing Background Color**：
+11. **Changing Background Color**：
+    ```bash
    On the main screen, tap the Change Color button.
    Select a background color from the list of options.
    The background color will change accordingly and is saved for future sessions.
@@ -81,25 +89,32 @@ Follow these instructions to get a copy of the project up and running on your lo
 ## Contributing
 
 1. **Fork the Repositor**：
+   ```bash
    Click the Fork button at the top right corner of the repository page.
 
-2. **Clone Your Forked Repository**：
+3. **Clone Your Forked Repository**：
+   ```bash
    git clone https://github.com/Xiaojun1023/FlashcardApp.git
 
-3. **Create a New Branch**：
+5. **Create a New Branch**：
+   ```bash
    git checkout -b feature-name
 
-4. **Make Your Changes**：
+7. **Make Your Changes**：
+   ```bash
    Implement your feature or fix bugs.
    Ensure your code follows the project's coding standards.
 
-5. **Commit Your Changes**：
+9. **Commit Your Changes**：
+    ```bash
    git commit -m "Description of your changes"
 
-6. **Push to the Branch**：
+11. **Push to the Branch**：
+    ```bash
    git push origin feature-name
 
-7. **Create a Pull Reques**：
+13. **Create a Pull Reques**：
+    ```bash
    Go to the original repository on GitHub.
    Click on Pull Requests and then New Pull Request.
    Compare your branch with the original and submit the pull request for review.
