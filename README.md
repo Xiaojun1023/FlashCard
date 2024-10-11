@@ -28,15 +28,16 @@ Follow these instructions to get a copy of the project up and running on your lo
    git clone https://github.com/your-username/FlashcardApp.git
 
 2. **Open the Project in Android Studio**:
+   ```bash
    Launch Android Studio.
    Go to File > Open and navigate to the cloned repository folder.
    Select the project to open it.
 
-3. **Build the Project**:
+4. **Build the Project**:
    Wait for Android Studio to synchronize and build the project.
    Resolve any dependencies if prompted.
 
-4. **Run the App**:
+5. **Run the App**:
    Click the Run button (green arrow) in Android Studio.
    Choose your connected Android device or emulator.
    The app should now install and launch on your device.
